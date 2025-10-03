@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://btceth.cc/sitemap.xml
