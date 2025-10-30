@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "description": "- 修复Bug\n- 优化性能\n- 新增夜间模式",
-  "downloadUrl": "https://example.com/app-release.apk"
+  "version": "1.0.1",
+  "description": "修复数据源，下载历史数据加载失败问题",
+  "downloadUrl": "https://bn1688.cc"
 }
 
 
