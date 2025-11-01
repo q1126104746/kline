@@ -1,8 +1,9 @@
 {
-  "version": "1.0.1",
-  "description": "修复数据源，下载历史数据加载失败问题",
+  "version": "1.0.2",
+  "description": "新增多空双向交易训练功能，支持做多做空，提供更真实的交易体验",
   "downloadUrl": "https://bn1688.cc"
 }
+
 
 
 
