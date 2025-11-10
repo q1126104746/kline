@@ -1,10 +1,8 @@
 {
-  "version": "1.0.2",
-  "description": "新增多空双向交易训练功能，支持做多做空，提供更真实的交易体验",
+  "version": "1.1.1",
+  "description": "新增EMA指标，支持导入csv行情数据，多空模式增加杠杠功能",
   "downloadUrl": "https://bn1688.cc"
 }
-
-
 
 
 
