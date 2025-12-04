@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "description": "优化导入数据过多启动慢\n新增加存档，从上次退出位置开始训练\n windows新增加多个图表同一个窗口显示",
+  "version": "1.3.2",
+  "description": "1.3.1：\n优化导入数据过多启动慢\n新增加存档，从上次退出位置开始训练\n windows新增加多个图表同一个窗口显示\n\n1.3.2\n新增加上一根K线功能\n修复bug",
   "downloadUrl": "https://bn1688.cc"
 }
 
