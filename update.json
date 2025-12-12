@@ -1,5 +1,6 @@
 {
-  "version": "1.3.3",
-  "description": "新增加数据删除功能\n优化MA、EMA指标\n修复显示崩溃异常BUG",
+  "version": "1.3.5",
+  "description": "新增突破单功能\n新增画线画折线\n windows多窗口新增加每个窗口独立指标\n\n修复A股小周期升级大周期数据异常问题\n修复macd、kdj指标修改参数不更新问题",
   "downloadUrl": "https://bn1688.cc"
 }
+
