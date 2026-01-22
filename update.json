@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "description": "1.5.0：1、优化画线体验，丝滑般体验\n2、性能优化3、修复一部分BUG\n4、新增适配移动端的横屏模式",
+  "version": "2.0.0",
+  "description": "2.0.0：1、UI重构升级 2、修复若干BUG",
   "downloadUrl": "https://bn1688.cc"
 }
 
